@@ -1,2 +1,2 @@
-# ML_with_AWS
-Self Improvement, following the instructions of a Udacity Course
+# Machine Learning with AWS
+Followed the instructions to learn what is Reinforcement Learning with AWS DeepRacer.
