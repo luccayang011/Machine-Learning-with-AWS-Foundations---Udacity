@@ -1,0 +1,3 @@
+The model still needs more training. There are only 9 iterations, and the graphs are still going up.
+We see the evaluation completion percentage has just reached 100%, which is a good sign but isn’t fully consistent yet.
+The training completion graph is still going up. The reward function and model are revealing good signs, but need more training time.
